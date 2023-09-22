@@ -12,7 +12,7 @@
 ## Setup
 Run the following commands from your terminal:
 
-1. `git clone https://github.com/Keshav-15/flutter-1_i-am-rich` to clone this repository
+1. `git clone https://github.com/Keshav-15/flutter-2_i-am-poor` to clone this repository
 1. `flutter pub get` in the project root directory to install all the required dependencies.
 
 ## Screenshots

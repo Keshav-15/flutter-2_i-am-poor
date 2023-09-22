@@ -1,16 +1,22 @@
-# i_am_poor
+# I Am Poor
+> This app will proudly display lump of coal and the statement “I Am Poor”
+<img src="https://github.com/Keshav-15/flutter-2_i-am-poor/assets/112402003/55accc4d-7cde-4988-9d3f-0ba705441457" width="20%">
+<br>
 
-A new Flutter project.
+# What you will learn
 
-## Getting Started
+* How to use Flutter Scaffold and AppBar class to design the user interface.
+* How to use Image class to display an image.
+* How to change the properties of various widgets.
 
-This project is a starting point for a Flutter application.
+## Setup
+Run the following commands from your terminal:
 
-A few resources to get you started if this is your first Flutter project:
+1. `git clone https://github.com/Keshav-15/flutter-1_i-am-rich` to clone this repository
+1. `flutter pub get` in the project root directory to install all the required dependencies.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
+<img src="https://github.com/Keshav-15/flutter-2_i-am-poor/assets/112402003/05d4ec88-2514-4e34-b7cc-31395e9e7a6a" width="20%">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Output
+<img src="https://github.com/Keshav-15/flutter-2_i-am-poor/assets/112402003/997a6c4d-e274-40b2-8f36-58c029df5cc3" width="20%">
